@@ -1,0 +1,15 @@
+#main h1{
+	text-align: center;
+}
+
+#imp {
+	list-style: none;
+}
+
+#sec {
+	list-style: none;
+
+}
+#sec li{
+	display: inline;
+}
